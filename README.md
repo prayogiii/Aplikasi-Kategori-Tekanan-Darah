@@ -1,4 +1,4 @@
-Kalkulator ini membantu pengguna mengetahui kategori tekanan darah mereka berdasarkan nilai sistolik (angka atas) dan diastolik (angka bawah), serta usia pengguna. Kategori yang diberikan meliputi:
+Kalkulator ini membantu pengguna mengetahui kategori tekanan darah mereka berdasarkan nilai sistolik (angka atas) dan diastolik (angka bawah). Kategori yang diberikan meliputi:
 
 Normal
 Prehipertensi / Elevasi
